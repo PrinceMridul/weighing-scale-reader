@@ -1,0 +1,23 @@
+# Deep Learning & Computer Vision
+torch>=2.0.0
+torchvision
+ultralytics==8.1.0
+opencv-python-headless
+Pillow
+numpy<2.0.0
+
+# OCR Baselines & Utilities
+pytesseract
+easyocr
+timm==0.6.13
+pytorch-lightning
+lmdb
+nltk
+
+# Data Processing & Metrics
+pandas
+Levenshtein
+jiwer
+datasets
+roboflow
+matplotlib
